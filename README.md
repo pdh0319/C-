@@ -1,2 +1,1 @@
-# KOGEUGGOM-python
-KOGEUGGOM python
+#C언어
